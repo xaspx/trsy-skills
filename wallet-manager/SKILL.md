@@ -1,0 +1,1 @@
+{wallet-manager SKILL.md content}
